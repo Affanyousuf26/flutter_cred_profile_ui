@@ -1,16 +1,33 @@
-# cred_profile_app
+This project is open-source and available under the [MIT License](LICENSE).
 
-A new Flutter project.
 
-## Getting Started
+# CRED Profile UI – Flutter Clone
 
-This project is a starting point for a Flutter application.
+A sleek and modern Flutter implementation of the CRED app's profile screen.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 UI Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Profile UI](screenshots/profile_ui_png)
+
+
+
+## ✨ Features
+
+- Clean and responsive profile layout
+- Profile picture, user name, bio section
+- Stats (like Coins, Rewards, etc.)
+- Stylish UI inspired by CRED app
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Affanyousuf26/flutter_cred_profile_ui.git
+cd flutter_cred_profile_ui
+flutter pub get
+flutter run
