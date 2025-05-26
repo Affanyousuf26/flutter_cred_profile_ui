@@ -9,7 +9,7 @@ A sleek and modern Flutter implementation of the CRED app's profile screen.
 
 ## 📱 UI Screenshot
 
-![Profile UI](screenshots/profile_ui_png)
+![Profile UI](screenshots/profile_ui.png)
 
 
 
